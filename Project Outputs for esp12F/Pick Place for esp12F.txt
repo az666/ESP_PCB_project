@@ -1,0 +1,17 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+G          JIDIANQI           906.724mil    361.999mil    611.448mil    115.936mil       1202mil        362mil  T         90.00 jidianqi       
+J1         SIP02                 2264mil   1634.425mil       2264mil       1536mil       2264mil       1536mil  T         90.00 POWER          
+k1         SWITCH            1494.952mil    214.386mil   1366.999mil        301mil       1367mil        301mil  T          0.00 switch         
+k2         SWITCH            1921.953mil    215.386mil       1794mil        302mil       1794mil        302mil  T          0.00 switch         
+S1         LM1117            1003.588mil   1624.524mil        994mil       1624mil    913.552mil   1500.048mil  T          0.00 AMS1117        
+U4         ESP12F                 463mil       1233mil        463mil       1233mil        763mil    1508.59mil  T          0.00 MCU            
+C1         CB2                 1016.5mil       1136mil       1114mil       1136mil       1114mil       1136mil  T        180.00 CAP            
+C2         CB2                 1020.5mil        935mil       1118mil        935mil       1118mil        935mil  T        180.00 CAP            
+C3         CB2                 1018.5mil       1308mil        921mil       1308mil        921mil       1308mil  T        360.00 CAP            
+R1         RAD0.3                2221mil        276mil       2221mil        276mil       2221mil        426mil  T        270.00 RES            
+R2         RAD0.3                 477mil        788mil        477mil        788mil        327mil        788mil  T        360.00 RES            
+R3         RAD0.3                1254mil    993.028mil       1254mil    993.029mil       1254mil    843.028mil  T         90.00 RES            
+H1         HI-LINK           1782.574mil     1232.5mil   1782.574mil        660mil   1684.148mil       1805mil  T          0.00 HI-LINK        
+SP         SIPX03                 214mil        364mil        214mil        164mil        214mil        164mil  T         90.00 SPI3           
+
